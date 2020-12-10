@@ -34,7 +34,7 @@
 ## Figura 12
 ![Figura 12](img/Imagen12.png?raw=true)
 ## Figura Error
-![ErrorGit](img/errorGit.png?raw=true)
+![ErrorGit](img/errorGit.PNG?raw=true)
 
 
 
