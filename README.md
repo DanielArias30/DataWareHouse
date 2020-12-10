@@ -9,3 +9,4 @@
 **path_files = r'C:\Users\Daniel\Desktop\Universidad\2020-2\Datawarehouse\2daEvaluacion\2da'**
 8. ejecutar el comando python extraction.py
 9. Esperar demora en cargar graficos
+![Figura 1.1](img/Imagen1.png?raw=true)
