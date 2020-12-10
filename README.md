@@ -9,6 +9,8 @@
 **path_files = r'C:\Users\Daniel\Desktop\Universidad\2020-2\Datawarehouse\2daEvaluacion\2da'**
 8. ejecutar el comando python extraction.py
 9. Esperar demora en cargar graficos
+## Figura Error
+![ErrorGit](img/errorGit.PNG?raw=true)
 ## Figura 1
 ![Figura 1](img/Imagen1.png?raw=true)
 ## Figura 2
@@ -33,8 +35,7 @@
 ![Figura 11](img/Imagen11.png?raw=true)
 ## Figura 12
 ![Figura 12](img/Imagen12.png?raw=true)
-## Figura Error
-![ErrorGit](img/errorGit.PNG?raw=true)
+
 
 
 
